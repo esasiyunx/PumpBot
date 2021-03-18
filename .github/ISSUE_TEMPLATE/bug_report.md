@@ -1,30 +1,11 @@
----
-name: Bug report
-about: If an unexpected error is given, post it here with a description of how you made it.
-title: ''
-labels: ''
-assignees: ''
+no problem when i want to use 50% of my money but it gives this error when i want to use all of my money
 
----
+can you help me asap.
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+ss is attached ;
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+https://ibb.co/525H1db
+https://ibb.co/NWhSTH5
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+OS: Windows 10
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. Windows 10]
-
-**Additional context**
-Add any other context about the problem here.
